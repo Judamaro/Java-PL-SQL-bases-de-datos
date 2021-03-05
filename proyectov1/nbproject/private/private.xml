@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaPrestamoLectorLibro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Prestamo_detalle.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaAdmin.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlPais.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlLector.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaRegistroLibro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlCategoria.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlPrestamo.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaLoginLector.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Multa.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaModificarAutorL.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Categoria.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlAutor_participacion.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaModificarLibro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaLector.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaRegistroLector.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Lector.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlAutorLibro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaConsultarLibros.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Libro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaRegistroAutorL.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Prestamo.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Autor_participacion.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaEliminarCategoria.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaPrestamoLibros.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Ciudad.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/modelo/Autorlibro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaEliminarAutorL.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaPrestamosActuales.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaMain.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlPrestamo_detalle.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaLoginAdmin.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/Conexion.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaModificarCategoria.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaEliminarLibro.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaPrestamosVencidos.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/vista/VistaPrestamosFechas.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/proyectov1/src/control/ControlLibro.java</file>
+        </group>
+    </open-files>
+</project-private>
